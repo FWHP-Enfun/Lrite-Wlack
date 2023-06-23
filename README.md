@@ -17,6 +17,8 @@ Currently there is only TC version, this variable font has many effects, the fil
 
 I made a variation, hoping to try it out, but it sucks to use
 
+![](https://github.com/FWHP-Enfun/Lrite-Wlack/blob/main/Picture/0.png)
+
 # 使用字體效果 Use Font Effects
 
 # 原來的字體 Original Font
