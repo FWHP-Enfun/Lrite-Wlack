@@ -31,7 +31,7 @@ Source Han Sans is an open source font family jointly developed by Adobe and Goo
 
 * 本字型基於 SIL Open Font License 1.1，是[思源黑體](https://github.com/adobe-fonts/source-han-sans/)修改的開源字體。
 
-This font is based on SIL Open Font License 1.1, which is an open source font modified by [Klee One](https://fonts.google.com/specimen/Klee+One).
+This font is based on SIL Open Font License 1.1, which is an open source font modified by [Source Han Sans](https://github.com/adobe-fonts/source-han-sans/).
 
 * 任何人可以免費使用此字型，包含商用。無須告知原作者。
 
